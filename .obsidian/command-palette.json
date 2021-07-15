@@ -1,0 +1,11 @@
+{
+  "pinned": [
+    "workspace:split-vertical",
+    "workspace:split-horizontal",
+    "markdown:toggle-preview",
+    "obsidian-icons-plugin:open-icons-plugin-modal",
+    "obsidian-admonition:insert-admonition",
+    "templater-obsidian:insert-templater",
+    "templater-obsidian:create-new-note-from-template"
+  ]
+}

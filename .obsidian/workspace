@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "2b7995e979ab24d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2bacb01679bd5f6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Setup.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02254fb3ae9a500f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4349e526d120cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "383b1afa57682ced",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad76839b206ed79c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "907ad5d0ad3bdf05",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ae32f0bb30f94f2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0565979ef086be08",
+    "type": "split",
+    "children": [
+      {
+        "id": "de4a540b379d5077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11388a7b50b07d37",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "07b7e97ee388e7bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b656f9192b39d46d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22a93610a92e3e70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setup.md"
+              }
+            }
+          },
+          {
+            "id": "f80a1849126d6a93",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f2bacb01679bd5f6",
+  "lastOpenFiles": [
+    "Setup.md",
+    "000-INDEX.md",
+    "_templates/daily-note-template.md",
+    "Untitled.md"
+  ]
+}

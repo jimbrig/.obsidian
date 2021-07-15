@@ -1,0 +1,60 @@
+{
+  "ProgressProperties": {
+    "enabled": true,
+    "properties": []
+  },
+  "IgnoredProperties": {
+    "enabled": false,
+    "properties": []
+  },
+  "AutoProperties": {
+    "enabled": true,
+    "properties": [
+      {
+        "name": "Author",
+        "choices": [
+          "Jimmy Briggs <jimbrig1993@outlook.com>"
+        ]
+      },
+      {
+        "name": "Creation Date",
+        "choices": [
+          ""
+        ]
+      },
+      {
+        "name": "Last Modified Date",
+        "choices": [
+          ""
+        ]
+      },
+      {
+        "name": "Tags",
+        "choices": [
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "Alias",
+        "choices": [
+          ""
+        ]
+      }
+    ]
+  },
+  "EditMode": {
+    "mode": "Some Multi",
+    "properties": [
+      "Tags",
+      "Alias"
+    ]
+  },
+  "KanbanHelper": {
+    "enabled": true,
+    "boards": []
+  },
+  "UIElements": {
+    "enabled": true
+  }
+}

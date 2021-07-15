@@ -1,0 +1,30 @@
+{
+  "promptDelete": false,
+  "spellcheck": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "_attachments",
+  "spellcheckDictionary": [
+    "Mindsweep",
+    "Tiago",
+    "Cheatsheet",
+    "Kiley",
+    "Declutter",
+    "decluttering",
+    "Todoist",
+    "PwC",
+    "NextGen",
+    "KPIs",
+    "Transformative",
+    "analytics",
+    "Kubernetes",
+    "DevOps"
+  ],
+  "readableLineLength": false
+}

@@ -1,0 +1,6 @@
+{
+  "new-note-template": "_templates/kanban-note-template.md",
+  "show-checkboxes": true,
+  "hide-tags-in-title": true,
+  "hide-tags-display": true
+}
